@@ -1,3 +1,4 @@
-*** My first blog post
-
-> "Some quotation" Me
+---
+title: "My First Blog Post"
+date: 2019-03-11
+---
